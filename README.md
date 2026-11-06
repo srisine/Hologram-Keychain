@@ -2,6 +2,9 @@
 
 A mini pocket hologram display that uses Beam Splitter Cube to project the contents of a 0.96inch OLED appearing as hologram.
 
+Inspiration:
+<img width="1280" height="772" alt="image" src="https://github.com/user-attachments/assets/d7a23b77-d124-42b4-8707-1a8993cfa981" />
+
 CAD:
 <img width="1920" height="722" alt="dc63e780-935a-4082-836e-cf11b3c11e63" src="https://github.com/user-attachments/assets/f75770fd-266d-4d26-b61f-9eb7d3791a8e" />
 <img width="1920" height="722" alt="349da5f4-6555-404c-8023-4c447882aeb9" src="https://github.com/user-attachments/assets/76c22129-6d33-482e-8098-16aa5474ef43" />
