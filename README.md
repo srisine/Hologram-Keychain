@@ -6,9 +6,16 @@ Inspiration:
 <img width="1280" height="772" alt="image" src="https://github.com/user-attachments/assets/d7a23b77-d124-42b4-8707-1a8993cfa981" />
 
 CAD:
+V1:
 <img width="1920" height="722" alt="dc63e780-935a-4082-836e-cf11b3c11e63" src="https://github.com/user-attachments/assets/f75770fd-266d-4d26-b61f-9eb7d3791a8e" />
 <img width="1920" height="722" alt="349da5f4-6555-404c-8023-4c447882aeb9" src="https://github.com/user-attachments/assets/76c22129-6d33-482e-8098-16aa5474ef43" />
 <img width="1920" height="722" alt="e7b69ec2-6607-460d-96e1-f4ecb68382fe" src="https://github.com/user-attachments/assets/6e1ea4b4-a4b3-419b-83e1-0361475cd42c" />
+V2:
+<img width="1920" height="722" alt="b822df46-7ebc-4352-b3d1-73f888a83e95" src="https://github.com/user-attachments/assets/f6eed1e9-b8bf-4e09-a9c6-7cb9f58041f6" />
+<img width="1920" height="722" alt="KeychainTop_(Assembly)_2026-Nov-09_10-29-40AM-000_CustomizedView5790762217" src="https://github.com/user-attachments/assets/ba846440-a7b4-407d-92f8-22393c3bdfb3" />
+<img width="971" height="702" alt="Screenshot 2026-11-09 160153" src="https://github.com/user-attachments/assets/38660e45-4849-4660-baef-89a3acd8e39a" />
+<img width="800" height="640" alt="Screenshot 2026-11-09 160133" src="https://github.com/user-attachments/assets/69f96582-1b0a-48de-ac00-27323993bc45" />
+<img width="627" height="688" alt="Screenshot 2026-11-09 160424" src="https://github.com/user-attachments/assets/94d8159a-aae2-4684-8074-ceaef99463a3" />
 
 
 PCB:
