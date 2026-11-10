@@ -20,7 +20,8 @@ Designed in Fusion 360:
 
 <H1>PCB:</H1>
 Designed in KiCad:
-<img width="731" height="639" alt="image" src="https://github.com/user-attachments/assets/a1125b74-69d3-404e-ab11-c109a9e40e85" />
+<img width="899" height="834" alt="Screenshot 2026-11-10 122110" src="https://github.com/user-attachments/assets/bc3f87a1-2676-4a1b-9b89-0770920aca45" />
+<img width="883" height="728" alt="Screenshot 2026-11-10 121238" src="https://github.com/user-attachments/assets/915f4e18-6e7f-45f2-845e-f8823ba130b6" />
 <img width="943" height="669" alt="image" src="https://github.com/user-attachments/assets/f1d9c1c0-a0d6-4c12-8a0d-f80f0dd4ca60" />
 
 # BOM
