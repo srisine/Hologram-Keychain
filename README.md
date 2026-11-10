@@ -34,6 +34,6 @@ BOM:
 | Custom PCB Board | 1 | Online | $11.00 | [JLCPCB](https://jlcpcb.com) |
 | 3D Printed Case | 1 set | Online | $8.00 | Robu.in |
 | M3 Screws & Standoffs Assortment | 1 set | Local | ~$2.00 | Local Market |
-| **Subtotal (Online Purchases)** | **5** | **Online** | **~$56.20** | **—** |
+| **Subtotal (Online Purchases)** | **5** | **Online** | **~$67.20** | **—** |
 | **Subtotal (Local Purchases)** | **1** | **Local** | **~$2.00** | **—** |
-| **Grand Total** | **6 items** | **All** | **~$58.20** | **—** |
+| **Grand Total** | **6 items** | **All** | **~$69.20** | **—** |
