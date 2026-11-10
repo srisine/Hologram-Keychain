@@ -32,7 +32,7 @@ BOM:
 | 0.96-inch I2C OLED Display | 1 | Online | $3.50 | [Robu.in]([https://robu.in](https://robu.in/product/0-96-inch-i2c-iic-oled-lcd-module-4pin-with-vcc-gnd-white/) |
 | Beam Splitter Cube (20x20x20mm) | 1 | Online | $35.99 | [Amazon](https://www.amazon.com/dp/B0B34FK2GF?lv=shuf&linkCode=ml1&linkId=20432106a03f15aeb801518b7a7205ca&gaOptInStatus=true&tag=rapsduinouno-20&channelId=1&ref_=cm_sw_r_as_gl_apa_gl_i_X6DF8AVB1PKCPZQ9A28V&plpRedirect=mhFallback&th=1) |
 | Custom PCB Board | 1 | Online | $11.00 | [JLCPCB](https://jlcpcb.com) |
-| 3D Printed Case & Optics Housing | 1 set | Online / Self | $8.00 | Robu.in |
+| 3D Printed Case | 1 set | Online | $8.00 | Robu.in |
 | M3 Screws & Standoffs Assortment | 1 set | Local | ~$2.00 | Local Market |
 | **Subtotal (Online Purchases)** | **5** | **Online** | **~$56.20** | **—** |
 | **Subtotal (Local Purchases)** | **1** | **Local** | **~$2.00** | **—** |
