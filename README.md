@@ -1,5 +1,7 @@
 # Hologram-Keychain
 
+<img width="971" height="702" alt="Screenshot 2026-11-09 160153" src="https://github.com/user-attachments/assets/309c3ab3-328f-4557-8ee8-eb186436410b" />
+
 A mini pocket hologram display that uses Beam Splitter Cube to project the contents of a 0.96inch OLED appearing as hologram.
 
 Features:
@@ -10,12 +12,15 @@ Inspiration:
 <img width="1280" height="772" alt="image" src="https://github.com/user-attachments/assets/d7a23b77-d124-42b4-8707-1a8993cfa981" />
 
 CAD:
+Designed in Fusion 360:
 <img width="1920" height="722" alt="b822df46-7ebc-4352-b3d1-73f888a83e95" src="https://github.com/user-attachments/assets/f6eed1e9-b8bf-4e09-a9c6-7cb9f58041f6" />
 <img width="1920" height="722" alt="KeychainTop_(Assembly)_2026-Nov-09_10-29-40AM-000_CustomizedView5790762217" src="https://github.com/user-attachments/assets/ba846440-a7b4-407d-92f8-22393c3bdfb3" />
 <img width="971" height="702" alt="Screenshot 2026-11-09 160153" src="https://github.com/user-attachments/assets/38660e45-4849-4660-baef-89a3acd8e39a" />
 <img width="800" height="640" alt="Screenshot 2026-11-09 160133" src="https://github.com/user-attachments/assets/69f96582-1b0a-48de-ac00-27323993bc45" />
 
 PCB:
+Designed in KiCad:
+
 <img width="627" height="688" alt="Screenshot 2026-11-09 160424" src="https://github.com/user-attachments/assets/94d8159a-aae2-4684-8074-ceaef99463a3" />
 <img width="731" height="639" alt="image" src="https://github.com/user-attachments/assets/a1125b74-69d3-404e-ab11-c109a9e40e85" />
 <img width="943" height="669" alt="image" src="https://github.com/user-attachments/assets/f1d9c1c0-a0d6-4c12-8a0d-f80f0dd4ca60" />
