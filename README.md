@@ -1,19 +1,19 @@
 # Hologram-Keychain
 
-#Description
+<h1>Description</h1>
 This was a project that I wanted to build for a long time as its just so cool. It's a tabletop/keychain like device that displays stuff as holograms. It uses an I2C OLED display to show content and then with the help of a cubical prism converts it into a holographic display. It uses concepts of physics like refraction and internal reflection to achieve this. And the best part it just looks so cool!
 
-#Why I Made This
+<h1>Why I Made This</h1>
 One day while scrolling on youtube I came across a video where they uses this technology to display lyrics of a song and I was fascinated I wanted to build it then and there but due to some stuff I couldn't but now that I've got the opportunity to build it I'm building it. Being a cse/physics enthusiast I've always wanted something that uses both subjects and looks cool and this is the most perfect project for this! Also I wanna impress my friends who bully me ;)...
 
-#Project Images
+<h1>Project Images</h1>
 <img width="961" height="594" alt="Screenshot 2026-11-19 220309" src="https://github.com/user-attachments/assets/9ab7a2bb-cc43-422f-b09b-0fea8546ddce" />
 <img width="838" height="646" alt="Screenshot 2026-11-19 220304" src="https://github.com/user-attachments/assets/0f50663a-0a7a-4281-b49c-7485677088cd" />
 <img width="1920" height="722" alt="96d4b16a-1de4-4e46-abf3-18d09d3f4803" src="https://github.com/user-attachments/assets/8057e0fb-f14e-4ce9-84d7-654c0d6765cd" />
 <img width="1920" height="722" alt="d731620d-4510-4d59-8d5b-5a0c85e062c7" src="https://github.com/user-attachments/assets/e800fcd6-f890-4f56-8a15-d3b7d71e25aa" />
 
 
-#PCB/Wiring
+<h1>PCB/Wiring</h1>
 Designed in KiCAD!
 
 <img width="960" height="722" alt="Screenshot 2026-11-19 150215" src="https://github.com/user-attachments/assets/3793d46b-7e70-429e-bcc5-e789af5af82b" />
